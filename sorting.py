@@ -1,6 +1,5 @@
 
 #Name: Murtaza Khambaty
-#University ID: 2000241181
 
 #Used to generate a sequence of random numbers
 import random
